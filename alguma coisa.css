@@ -1,0 +1,8 @@
+grid-item {
+    aspect-ratio: 1;
+    background: #4a6cf7;
+    border-radius: 10px;
+    transition: transfornm 0.3s ease;
+    transform-origin: center;
+    box-shadow: 3px 5px 5px rgba(0, 0, 0, 0.5 );
+}
